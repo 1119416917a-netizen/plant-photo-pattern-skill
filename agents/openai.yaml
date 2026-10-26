@@ -1,0 +1,4 @@
+interface:
+  display_name: "植物照片转平面图案"
+  short_description: "将植物照片转成平面线条插画、无缝重复图案和矢量风格视觉资产"
+  default_prompt: "把这张植物照片转成平面插画、线条艺术、可重复的矢量风格图案。"
